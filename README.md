@@ -1,2 +1,2 @@
-# robot_control
-|| A repository to understand project versioning and control ||
+# Dummy branck
+|| This repository is to validate with version control ||
